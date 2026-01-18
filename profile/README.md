@@ -262,9 +262,7 @@ This project is currently unlicensed. All rights reserved by the Silver Surfer t
 
 - **Frontend Repository**: [Silver-Surfer-Plasmo-Extension](https://github.com/Silver-Surfer-mchacks13/Silver-Surfer-Plasmo-Extension)
 - **Backend Repository**: [Silver-Surfer-Main](https://github.com/Silver-Surfer-mchacks13/Silver-Surfer-Main)
-- **Documentation**: *(Coming Soon)*
-- **Demo Video**: *(Coming Soon)*
-
+- **Demo Video**: [Video](https://www.youtube.com/watch?v=HM00RuoAPd4&t=1s)
 ## 📧 Contact
 
 Have questions or feedback?  Reach out to us: 
